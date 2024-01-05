@@ -19,9 +19,9 @@ $ python main.pyw
 - Calculation of hash values for plain text and files using SHA-1, SHA-256, SHA-512, and MD-5 algorithms.
 
 # Encryption:
-![Encrypt](https://github.com/MohamedNourTN/CipherGuard/blob/main/encrypt.png))
+![Encrypt](https://github.com/MohamedNourTN/CipherGuard/blob/main/encrypt.png)
 
-![RSA]([https://example.com/path/to/your/image.jpg](https://raw.githubusercontent.com/MohamedNourTN/CipherGuard/main/RSA.png))
+![RSA]([https://github.com/MohamedNourTN/CipherGuard/blob/main/RSA.png))
 
 The encryption section is specifically designed for the process of encrypting, as implied by its name. Within this feature, the program offers the flexibility to input text or choose a file for encryption. Just below the selection area for the content to be encrypted, users can opt to either generate a new encryption key or utilize a pre-existing one.
 
