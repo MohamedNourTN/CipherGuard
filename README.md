@@ -1,4 +1,4 @@
-
+![CipherGuard](https://github.com/MohamedNourTN/CipherGuard/blob/main/icon.ico)
 # CipherGuard:
 
 Greetings! Welcome to the GitHub repository CipherGuard! As the name suggests, this application is designed to secure your data through encryption and facilitate its decryption. Additionally, it includes features like Key Derivation Function (KDF), hash, and base64 encoding.
