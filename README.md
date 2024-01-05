@@ -21,7 +21,7 @@ $ python main.pyw
 # Encryption:
 ![Encrypt](https://github.com/MohamedNourTN/CipherGuard/blob/main/encrypt.png)
 
-![RSA]([https://github.com/MohamedNourTN/CipherGuard/blob/main/RSA.png))
+![RSA](https://github.com/MohamedNourTN/CipherGuard/blob/main/RSA.png)
 
 The encryption section is specifically designed for the process of encrypting, as implied by its name. Within this feature, the program offers the flexibility to input text or choose a file for encryption. Just below the selection area for the content to be encrypted, users can opt to either generate a new encryption key or utilize a pre-existing one.
 
@@ -32,7 +32,7 @@ For those opting to enter an existing encryption key, this option is readily ava
 To complete the encryption process, users can either press the Enter key on the keyboard or click the "Encrypt" button. The encrypted data is then displayed in the right pane along with the encryption key, which can be used for subsequent decryption. If a file was selected for encryption, the encrypted data is written to the file, unless the "Write encrypted data to the file" checkbox next to the button is unchecked.
 
 # Decryption:
-![Decrypt]([https://example.com/path/to/your/image.jpg](https://raw.githubusercontent.com/MohamedNourTN/CipherGuard/main/decrypt.png))
+![Decrypt](https://github.com/MohamedNourTN/CipherGuard/blob/main/decrypt.png)
 
 The decryption section, much like its counterpart in the encryption tab, is designed for deciphering data previously encrypted using the encryption tab. Users have the option to input the encrypted data in the large entry field under the "Encrypted text" radio button or choose an encrypted file using the "Browse" button under the "Encrypted file" radio button.
 
