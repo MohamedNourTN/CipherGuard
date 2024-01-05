@@ -19,7 +19,7 @@ $ python main.pyw
 - Calculation of hash values for plain text and files using SHA-1, SHA-256, SHA-512, and MD-5 algorithms.
 
 # Encryption:
-![Encrypt]([https://example.com/path/to/your/image.jpg](https://raw.githubusercontent.com/MohamedNourTN/CipherGuard/main/encrypt.png))
+![Encrypt](https://github.com/MohamedNourTN/CipherGuard/blob/main/encrypt.png))
 
 ![RSA]([https://example.com/path/to/your/image.jpg](https://raw.githubusercontent.com/MohamedNourTN/CipherGuard/main/RSA.png))
 
