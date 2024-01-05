@@ -7,6 +7,10 @@ Encryption involves transforming your data into an unreadable format, reversible
 
 To decipher data previously encrypted using a symmetric key encryption algorithm (such as AES or 3DES) within this application, you must possess the "encryption key" used for the initial encryption. This key, comprised of 16, 24, or 32 random characters, serves as the means to both encrypt and decrypt data, earning these algorithms the term "symmetric." Similarly, decrypting asymmetrically encrypted data (utilizing the RSA algorithm) requires a "private key," typically exceeding 1024 characters. For multiple pieces of data to be decryptable with the same private key, they must be encrypted with the corresponding public key, extractable from the private key. Given the involvement of two distinct keys, these algorithms are known as asymmetric.
 
+# Installation:
+$ pip install -r requirements.txt
+$ python main.pyw
+
 # Capabilities:
 
 - Multi-threaded encryption or decryption of plain text or files using AES and 3DES algorithms.
@@ -15,6 +19,9 @@ To decipher data previously encrypted using a symmetric key encryption algorithm
 - Calculation of hash values for plain text and files using SHA-1, SHA-256, SHA-512, and MD-5 algorithms.
 
 # Encryption:
+![Encrypt]([https://example.com/path/to/your/image.jpg](https://raw.githubusercontent.com/MohamedNourTN/CipherGuard/main/encrypt.png))
+
+![RSA]([https://example.com/path/to/your/image.jpg](https://raw.githubusercontent.com/MohamedNourTN/CipherGuard/main/RSA.png))
 
 The encryption section is specifically designed for the process of encrypting, as implied by its name. Within this feature, the program offers the flexibility to input text or choose a file for encryption. Just below the selection area for the content to be encrypted, users can opt to either generate a new encryption key or utilize a pre-existing one.
 
@@ -25,6 +32,7 @@ For those opting to enter an existing encryption key, this option is readily ava
 To complete the encryption process, users can either press the Enter key on the keyboard or click the "Encrypt" button. The encrypted data is then displayed in the right pane along with the encryption key, which can be used for subsequent decryption. If a file was selected for encryption, the encrypted data is written to the file, unless the "Write encrypted data to the file" checkbox next to the button is unchecked.
 
 # Decryption:
+![Decrypt]([https://example.com/path/to/your/image.jpg](https://raw.githubusercontent.com/MohamedNourTN/CipherGuard/main/decrypt.png))
 
 The decryption section, much like its counterpart in the encryption tab, is designed for deciphering data previously encrypted using the encryption tab. Users have the option to input the encrypted data in the large entry field under the "Encrypted text" radio button or choose an encrypted file using the "Browse" button under the "Encrypted file" radio button.
 
