@@ -8,8 +8,8 @@ Encryption involves transforming your data into an unreadable format, reversible
 To decipher data previously encrypted using a symmetric key encryption algorithm (such as AES or 3DES) within this application, you must possess the "encryption key" used for the initial encryption. This key, comprised of 16, 24, or 32 random characters, serves as the means to both encrypt and decrypt data, earning these algorithms the term "symmetric." Similarly, decrypting asymmetrically encrypted data (utilizing the RSA algorithm) requires a "private key," typically exceeding 1024 characters. For multiple pieces of data to be decryptable with the same private key, they must be encrypted with the corresponding public key, extractable from the private key. Given the involvement of two distinct keys, these algorithms are known as asymmetric.
 
 # Installation:
-$ pip install -r requirements.txt
-$ python main.pyw
+- $ pip install -r requirements.txt
+- $ python main.pyw
 
 # Capabilities:
 
