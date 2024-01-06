@@ -9,7 +9,7 @@ To decipher data previously encrypted using a symmetric key encryption algorithm
 
 # Installation:
 - $ pip install -r requirements.txt
-- $ python main.pyw
+- $ python cipherguard.pyw
 
 # Capabilities:
 
